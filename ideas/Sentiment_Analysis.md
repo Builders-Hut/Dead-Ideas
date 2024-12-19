@@ -4,7 +4,7 @@ A webapp/app/anything which can do sentiment analysis on product reviews.
 
 ## Why
 
-- Helps buisnesses understand what the consumers want
+- Helps businesses understand what the consumers want
 - Provides useful insights on data
 - Is cool
 
