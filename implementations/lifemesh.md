@@ -1,43 +1,60 @@
-# Freelancer Ranking System
+# Freelancer Evaluation System using ML&AI and Blockchain ,NFT
+This project is a Python-based scoring system designed to evaluate freelancer profiles for client requirements. It calculates a weighted score based on factors like skills match, potential, task context, and previous experience.
 
-## Idea Title
-Freelancer Ranking Based on Skills, Experience, and Potential USing ML&AI and BlockChain, NFT.
+# Features
+Skill Matching
+Matches freelancer skills against client requirements using keyword analysis.
 
-### Short Description
-This project ranks freelancers based on their match with specific client requirements, previous experience, and their potential for future growth. It incorporates weighted factors, including skill match, task context, previous experience, and learning potential, to generate a final score that helps clients make informed decisions about hiring freelancers.
+#Potential Evaluation
+Scores freelancers based on their interest and willingness to learn.
 
-## Why
+# Task Context Analysis
+Assesses suitability based on the freelancer's experience level.
+Experience Scoring
+Quantifies previous experience in terms of years.
+Weighted Scoring System
+Combines all individual scores using a customizable weight formula.
+Detailed Breakdown
+Provides a detailed analysis of how the scores are calculated for transparency.
+Sorted Rankings
+Outputs a ranked list of freelancers to assist clients in decision-making.
 
-### Problems Addressed:
-In the freelancing world, finding the right candidate can be overwhelming. Clients often struggle to identify freelancers with the right skillset and potential to meet their project needs. Current ranking systems are too basic and do not account for future potential or learning capability.
+# Why use this?
+Simplifies freelancer evaluation by automating score calculations.
+Provides transparency in the scoring process, helping clients make informed decisions.
+Customizable weights allow prioritization of different evaluation factors.
+Saves time and effort compared to manual profile analysis.
 
-### Unique Aspects:
-- **Potential Score:** Unlike traditional systems that focus solely on experience, this project also evaluates the freelancer's potential to grow in the role, which is crucial for long-term projects.
-- **Experience vs. Newcomer Balance:** It also takes into account the freelancer's experience, where newcomers are given a slight advantage, encouraging fresh talent to step forward.
+# Why we built this?
+This system was developed to address the challenges clients face when choosing freelancers. Often, evaluating profiles manually can be time-consuming and subjective. This project provides an objective, efficient, and scalable solution.
 
-### Improvements:
-While some systems rank based on basic experience and skill, this project introduces a weighted scoring system that balances immediate skills with growth potential and learning ability.
+# Deployment Instructions
+Clone the repository from GitHub:
 
-## How
+bash
+git clone <https://github.com/am-ru/INVOA>
+cd freelancer-evaluation-system
 
-### Implementation Strategy:
-I thought of implementing this idea by leveraging text processing techniques to assess skill matches between freelancer profiles and client requirements. I also integrated a weighted scoring system to evaluate both current and future competencies. The focus was to create a fair ranking that doesn't just reward experience but also potential.
+Install the required Python libraries:
 
-### Approach:
-The idea was implemented using natural language processing (NLP) and text matching algorithms. A weighted formula was used to calculate scores, considering the freelancer's skills, learning potential, experience, and task context.
+pip install nltk
+Download NLTK stopwords:
+import nltk
+nltk.download('stopwords')
 
-## Challenges Faced
+Run the script:
 
-### Key Challenges:
-- **Data Preprocessing:** The biggest challenge was preprocessing freelancer profiles and client requirements to accurately match keywords while handling noise and irrelevant information.
-- **Balancing the Weights:** Finding the right balance between the importance of skills, experience, and potential was another challenge, as it required testing different combinations to get a meaningful ranking.
+python freelancer_evaluation.py
+Extra Information
+Future updates may include:
+Integration with APIs for real-time freelancer data.
+Support for multilingual profiles.
+Enhanced visualization of scoring using graphs.
+Contributed by
 
-## Good to Have Features
+# GitHub Repository
+amruinova
+https://github.com/am-ru/INVOA
 
-### Future Enhancements:
-- **Real-Time Updates:** It would be beneficial to implement a dynamic ranking system that updates in real-time based on client feedback and project completion.
-- **Skill Evolution Tracking:** Tracking the evolution of a freelancer's skill set over time could further improve the ranking by rewarding continuous learning.
-- **Personalized Recommendations:** An algorithm that suggests freelancers based on client preferences and past work could be a valuable addition.
+**[check the project and PPT on drive link](https://drive.google.com/drive/folders/1g9HVf6xwHISNa2owvqE_Ek44LvWQKvp6?usp=drive_link)**
 
-## Contributed By
-- [amruinova](https://github.com/am-ru/INVOA)
