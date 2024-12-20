@@ -32,9 +32,12 @@ As we have already with the spotify API, and had some ideas on the implementatio
 ## Deployment instructions
 1. Copy our git repo link
 https://github.com/Chirag-Jamariya/not-css
-2. Put your spotify API client ID and client secret.
-3. Take your authentication code for genius API.
-4. npm run dev in terminal
+3. Put your spotify API client ID and client secret.
+4. Take your authentication code for genius API.
+5. npm run dev in terminal
+
+   OR
+(https://not-css-fork-rl1n.vercel.app/)
 
 
 
