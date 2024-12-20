@@ -37,4 +37,4 @@ contributed by
 - [RAHUL2007U](https:github.com/RAHUL2007U)
 - [Rith758](https:github.com/Rith758)
 
-**[check us out on github](link to the github repo housing the project)**
+**https://github.com/adith-09/hackcode1 
