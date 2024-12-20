@@ -31,4 +31,4 @@ contributed by
 - [mano45-sudo](https://github.com/mano45-sudo)
 - [sangatamil-eee](https://github.com/sangatamil-eee)
 
-**[Github Codeswipe repo](https://github.com/Aravind0066/Dead-Ideas-Codeswipe)**
+**[Github Codeswipe repo](https://github.com/mano45-sudo/Dead-Ideas-Codeswipe)**
