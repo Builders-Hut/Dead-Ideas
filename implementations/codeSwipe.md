@@ -1,4 +1,4 @@
-# <CodeSwipe>
+# CodeSwipe
 
 CodeSwipe is a revolutionary networking platform designed exclusively for programmers, offering a refreshing alternative to traditional professional networking sites. By focusing on code over photos and emphasizing genuine connections through shared technical interests, CodeSwipe creates a casual, programmer-friendly space for finding collaborators and like-minded developers.
 
