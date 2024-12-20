@@ -4,7 +4,6 @@ This healthcare platform connects doctors, patients, and the community. It featu
 
 ## Why
 
-talk about 
 1)Fragmented Healthcare Communication:
 Patients and doctors often struggle to connect efficiently, especially for appointment scheduling, follow-ups, or quick consultations. This leads to delays and poor healthcare outcomes.
 
@@ -27,7 +26,6 @@ A real-time scheduling system lets patients see doctor availability and book slo
 
 ## How 
 
-talk about 
 The idea emerged from observing gaps in healthcare communication and accessibility. By combining secure data handling, real-time scheduling, and verified interactions, we envisioned a platform bridging these gaps. Leveraging interactive design and streamlined tools, it integrates existing concepts while adding unique features, leaving room for growth and further innovation.
 
 ## Challenges Faced
